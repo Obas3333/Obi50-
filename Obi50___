@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Love Letter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffe6e6;
+            color: #333;
+            text-align: center;
+            padding: 50px;
+        }
+        .heart {
+            font-size: 50px;
+            color: red;
+        }
+        .message {
+            font-size: 20px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="heart">❤️</div>
+    <div class="message">
+        <p>Amorcito,</p>
+        <p>Espero que te sientas mejor pronto, mi vida. Pobrecita mi princesita, de verdad me da mucha lástima verte así de enferma. Te quiero muchísimo y solo quiero hacerte feliz.</p>
+        <p>No puedo esperar para verte, de verdad. He llegado al punto en que ya no puedo aguantar más. En serio, necesito verte ya. Ir a Nueva York es literalmente mi sueño hecho realidad y ya casi está aquí. Dijimos que faltaba un montón de tiempo y ahora, literalmente, ya casi es.</p>
+        <p>Con todo mi amor,</p>
+        <p>[Tu Nombre]</p>
+    </div>
+    <div class="heart">❤️</div>
+</body>
+</html>
